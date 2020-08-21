@@ -1,5 +1,5 @@
 # xavier-docker-tensorflow
-Steps to build a GPU acclerated docker container for the Nvidia Jetson Xavier AGX platform
+Steps to build a GPU acclerated docker container with tensorflow version 2.2 for the Nvidia Jetson Xavier AGX platform
 
 ## Build
 
